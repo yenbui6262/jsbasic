@@ -12,6 +12,7 @@ box.innerHTML='<h1> new heading</h1>';
 
 
 
+
 //vẫn có thể lấy nội dung của h1 mới thêm
 console.log(document.querySelector('h1').innerText);
 
